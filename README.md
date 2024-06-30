@@ -1,2 +1,2 @@
 # gitStuff
-changeMaster
+changeB
